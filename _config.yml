@@ -21,7 +21,7 @@ repository               : "GarryTsui/GarryTsui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/GarryTsui/GarryTsui.github.io/blob/master/images/cute.png"
+  avatar           : "cute.png"
   name             : "Jiale Cui"
   pronouns         : # example: "she/her"  
   bio              : "92"
